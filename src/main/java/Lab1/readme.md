@@ -10,4 +10,4 @@ I used IntelliJ to enable Git, made at least three commits for different changes
 
 The screenshot below shows the project structure, the Java editor, and the Git log with my commits.
 ![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![img.png](img.png)
