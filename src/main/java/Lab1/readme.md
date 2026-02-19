@@ -9,4 +9,5 @@ The `Lab1` package contains:
 I used IntelliJ to enable Git, made at least three commits for different changes, and pushed the repository to GitHub. 
 
 The screenshot below shows the project structure, the Java editor, and the Git log with my commits.
-![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
